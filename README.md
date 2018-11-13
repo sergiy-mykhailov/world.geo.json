@@ -1,9 +1,9 @@
-To mock something fast and loose with geo-json data for the world,
-this is your fix. Legal status of this dataset: dubious?
+# geo-json data for the world
 
-You might prefer [world-atlas](https://github.com/mbostock/world-atlas)
-or [us-atlas](https://github.com/mbostock/us-atlas) instead, if that is an issue.
-As a bonus, that will give you not just attributable sources, but topology preservation
-across features and much smaller files than native geo-json offers. It's the future.
+This is a library of geo-json data from various places in the world
 
-For a good time, drag them to http://bl.ocks.org/1431429 and paint the globe!
+#### Some links:
+* [GeoJSON wiki](https://en.wikipedia.org/wiki/GeoJSON)
+* [world-atlas](https://github.com/mbostock/world-atlas)
+* [us-atlas](https://github.com/mbostock/us-atlas)
+* drag geoJson data to [paint the globe!](http://bl.ocks.org/1431429)
